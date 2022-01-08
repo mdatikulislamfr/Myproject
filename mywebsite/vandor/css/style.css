@@ -1,0 +1,218 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+/*====================== hedder Section=================== */
+.header-section{
+  background: url('../../img/headbg.jpg');  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color:blue ;
+}
+.nav{
+    padding:23px 0;
+}
+.nav a{
+    font-weight: normal;
+    font-family:Oswald;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.box1 img{
+    margin-top: -70px;
+}
+.box2{
+    position: relative;
+    width: 607px;
+    margin-top: 166px;
+    text-align: center;
+    color: #fff;
+    font-family: Oswald;
+    letter-spacing: 1px;
+
+}
+/* ============= Service Section =================== */
+.service_sectio{
+    background: url('../../img/serviceSectio.jpg');  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:blue ;
+}
+.Servicebox{
+    height: 540px;
+    background: #f7f5f575;
+    width: 23%;
+    border-radius: 7px;
+    display: inline-block;
+    margin-right: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 9px 3px #797777;
+    transition: all linear 0.2s;
+}
+.Servicebox:nth-child(5){
+    margin-right: 0;
+}
+.Servicebox:hover{  
+    transform: scale(1.01);
+    background: #ffffffa9;
+}
+.Servicebox .icon{
+    width: 50%;
+    height: 130px;
+    margin: auto;
+    margin-top: 21px;
+    cursor: pointer;
+}
+.icon img{
+    height: 100%;
+    width: 100%;
+}
+.textbox{
+    background: rgba(0, 0, 0, 0.315);
+    width: 95%;
+    margin: auto;
+    margin-top: 36px;
+    border-radius: 5px;
+    color: #000;
+    height: 63%;
+    overflow: hidden;
+    padding: 0 10px;
+    cursor: pointer;
+}
+.textbox h2{
+    text-align: center;
+    font-family: Oswald;
+    font-weight: 600;
+    margin: 10px 0;
+    opacity: 1 !important;
+    color: #000;
+}
+.textbox p{
+    text-align: justify;
+}
+/* ===================== About me Section ================================  */
+.about_me{
+    background: url('../../img/pexels-gradienta-7130472.jpg');  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:blue ;
+}
+.aboutbox{
+    margin-top: 34px;
+    width: 560px;
+    overflow: hidden;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aboutbox2{
+    width: 47%;
+    overflow: hidden;
+    height: 461px;
+    margin-top: 66px;
+}
+.aboutbox2 img{
+    height: 100%;
+    width: 100%;
+}
+/*===================== contact me ================================ */
+.contact{
+    background: url('../../img/contact.jpg');  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:blue ;
+
+}
+.contactbox{
+    width: 497px;
+    height: 470px;
+    background: #00000082;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 9px;
+    box-sizing: border-box;
+    box-shadow: 0 0 7px 3px black;
+    padding: 25px;
+}
+/* =================================link========================== */
+.linkbox{
+    width: 36%;
+    border-right: 28px solid red;
+    height: 409px;
+    background: #ffffff7a;
+    margin-top: 65px;
+    overflow-x: auto;
+    padding: 10px;
+    text-align: justify;
+    color: #000;
+}
+.linkbox2{
+    margin-top: 65px;
+    margin-bottom: 65px;
+    width: 64%;
+    overflow: hidden;
+}
+/* ====================================== other sectio ======================== */
+#home-icon{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background: #fff;
+    position: fixed;
+    top: 6px;
+    left: 0;
+    text-align: center;
+    padding: 6px;
+    color: blue;
+    cursor: pointer;
+    display: none;
+}
+.leftnavber{
+    width: 100px;
+    background: #0000006e;
+    padding: 1px;
+    border: 1px solid #02020217;
+    position: fixed;
+    top: 37px;
+    left: 4px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 0 2px 1px #c6c6c6;
+    display: none;
+}
+.modal_card{
+    width: 1028px;
+    position: fixed;
+    top: 22px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    height: 600px;
+    overflow: hidden;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px 1px black;
+    display: none;
+}
+
+.card-text{
+    text-align: justify;
+}
+#cologecard{
+    position: absolute;
+    right: 5px;
+    cursor: pointer;
+    color: red;
+    font-size: 20px;
+ 
+}

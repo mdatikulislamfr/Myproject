@@ -1,0 +1,226 @@
+
+/* =========================412px doun */
+@media screen and (max-width: 412px) {
+    .header-section .nav a{
+        display: none;
+    }
+    .box1 {
+        height: 443px;
+        width: 355px;
+        overflow: hidden;
+        margin-top: 74px;
+    }
+    .box1 img{
+        height: 100%;
+        width: 100%;
+    }
+    .box2{
+        height: 200px;
+        width: 369px;
+        overflow: hidden;
+        margin-top: -83px;
+    }
+    .Servicebox {
+        float: none !important;
+        width: 100%;
+        margin-top: 14px;
+    }
+    .aboutbox {
+        width: 100%;
+        float: none !important;
+    }
+    .aboutbox2 {
+        float: none !important;
+        width: 100%;
+        margin-top: 0
+    }
+    .modal_card {
+        width: 96%;
+    }
+    .contactbox{
+        width: 100%;
+    }
+    .linkbox,.linkbox2{
+        width: 100%;
+    }
+    .linkbox2 img{
+        width: 100%;
+    }
+
+
+
+
+
+  }
+
+  /* =========================810px doun */
+@media screen and (max-width: 810px) {
+    .header-section .nav{
+        justify-content: center !important;
+    }
+    .box1 {
+        margin-top: -17px;
+        height: 421px;
+    }
+    .box1 img{
+        margin-top: -17px;
+        height: 100%;
+        width: 100%;
+    }
+    .box2{
+        width: 344px;
+        margin-top: 106px
+    }
+    .Servicebox {
+        width: 40%;
+        margin-left: 48px;
+        margin-top: 21px;
+    }
+    .aboutbox2 {
+    width: 100%;
+    height: 478px;
+    margin-top: 17px;
+    }
+    .modal_card {
+        width: 97%;
+    }
+    .contactbox{
+    }
+    .linkbox,.linkbox2{
+        height: 400px;
+    }
+    .linkbox2 img{
+        width: 100%;
+        height: 100%;
+    }
+
+
+
+
+
+  }
+  
+  /* =========================375px doun */
+@media screen and (max-width: 375px) {
+    .box2 {
+        margin-top: 0;
+    }
+    .Servicebox {
+        width: 100%;
+        margin-top: 14px;
+        margin-left: 0;
+    }
+
+    }
+/* =========================414px doun */
+@media screen and (max-width: 414px) {
+    .header-section .nav a{
+        display: none;
+    }
+    .box1 {
+        height: 443px;
+        width: 355px;
+        overflow: hidden;
+        margin-top: -64px;
+    }
+    .box1 img{
+        height: 100%;
+        width: 100%;
+    }
+    .box2{
+        height: 200px;
+        width: 369px;
+        overflow: hidden;
+        margin-top: 10px;
+    }
+    .Servicebox {
+        float: none !important;
+        width: 100%;
+        margin-top: 14px;
+        margin-left: 0;
+    }
+    .aboutbox {
+        width: 100%;
+        float: none !important;
+    }
+    .aboutbox2 {
+        float: none !important;
+        width: 100%;
+        margin-top: 0
+    }
+    .modal_card {
+        width: 96%;
+    }
+    .contactbox{
+        width: 100%;
+    }
+    .linkbox,.linkbox2{
+        width: 100%;
+    }
+    .linkbox2 img{
+        width: 100%;
+    }
+
+
+
+
+
+  }
+  /* =========================428px doun */
+@media screen and (max-width: 428px) {
+    .header-section .nav a{
+        display: none;
+    }
+    .box1 {
+        height: 443px;
+        width: 355px;
+        overflow: hidden;
+        margin-top: -64px;
+    }
+    .box1 img{
+        height: 100%;
+        width: 100%;
+    }
+    .box2{
+        height: 200px;
+        width: 369px;
+        overflow: hidden;
+        margin-top: 10px;
+    }
+    .Servicebox {
+        float: none !important;
+        width: 100%;
+        margin-top: 14px;
+        margin-left: 0;
+    }
+    .aboutbox {
+        width: 100%;
+        float: none !important;
+    }
+    .aboutbox2 {
+        float: none !important;
+        width: 100%;
+        margin-top: 0
+    }
+    .modal_card {
+        width: 96%;
+    }
+    .contactbox{
+        width: 100%;
+    }
+    .linkbox,.linkbox2{
+        width: 100%;
+    }
+    .linkbox2 img{
+        width: 100%;
+    }
+
+
+
+
+
+  }
+  
+    
+
+
